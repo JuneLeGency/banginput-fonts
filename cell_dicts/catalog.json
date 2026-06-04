@@ -1,0 +1,83 @@
+[
+ {
+  "id": "it",
+  "name": "IT 互联网",
+  "desc": "12800+ 计算机/互联网术语",
+  "file": "it.bin",
+  "sha256": "facd0bdf90f9a565a7230e08d5dd22d2cc3aa8cff78f772be7bc649c45859a67",
+  "sizeKb": 488,
+  "version": 1
+ },
+ {
+  "id": "medical",
+  "name": "医学",
+  "desc": "18500+ 医学/药品/疾病词",
+  "file": "medical.bin",
+  "sha256": "41db8304541415bb1e636f569811adae4920d137b5f30bdc034ef02881163302",
+  "sizeKb": 727,
+  "version": 1
+ },
+ {
+  "id": "food",
+  "name": "饮食",
+  "desc": "8900+ 菜名/食材/小吃",
+  "file": "food.bin",
+  "sha256": "42cd2f3c10e731028b22d1840132720eef2fc00d66dfa51ee8fe021084eee32a",
+  "sizeKb": 334,
+  "version": 1
+ },
+ {
+  "id": "law",
+  "name": "法律",
+  "desc": "9800+ 法律术语",
+  "file": "law.bin",
+  "sha256": "c3f356de35345b7098fc3fbb6d1d055066a15f5907c62cc8cd21a50d3beda8c0",
+  "sizeKb": 603,
+  "version": 1
+ },
+ {
+  "id": "caijing",
+  "name": "财经",
+  "desc": "3700+ 财经/金融词",
+  "file": "caijing.bin",
+  "sha256": "e6150709b3c94048aa47e5f927a413981e45a7f9a6bc4035425cfd42483bec6d",
+  "sizeKb": 125,
+  "version": 1
+ },
+ {
+  "id": "animal",
+  "name": "动物",
+  "desc": "17100+ 动物名称",
+  "file": "animal.bin",
+  "sha256": "1f3abd5ce4237eda889218d3787efd3f99f0c086975dd72e7070898f5bdaeca1",
+  "sizeKb": 757,
+  "version": 1
+ },
+ {
+  "id": "car",
+  "name": "汽车",
+  "desc": "1700+ 汽车品牌/术语",
+  "file": "car.bin",
+  "sha256": "baccf646b45684464679ef0e0b71cd617e765b3c5c927c86a6ac8c347b93828a",
+  "sizeKb": 72,
+  "version": 1
+ },
+ {
+  "id": "poem",
+  "name": "诗词",
+  "desc": "13600+ 诗词名句词汇",
+  "file": "poem.bin",
+  "sha256": "3683cf3e65ce7efb7ad68af912bf9b6aca47e7c0c60d0d3477b3fc85abeaffd0",
+  "sizeKb": 683,
+  "version": 1
+ },
+ {
+  "id": "netnew",
+  "name": "网络流行新词",
+  "desc": "11.6 万词（搜狗官方词库）：绝绝子/显眼包/电子榨菜等持续更新的新词大全",
+  "file": "netnew.bin",
+  "sha256": "349c46e684908952cd37e5e7713e0446e452e972bcfd26e1e7aad22a339f2126",
+  "sizeKb": 4381,
+  "version": 1
+ }
+]
