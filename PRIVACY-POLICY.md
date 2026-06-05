@@ -24,6 +24,7 @@ BangInput 是一款**默认完全离线**的输入法。你键入的每一个字
 | 输入统计（命中率等聚合数字） | 仅设备本地存储 | 不含任何输入文本，仅供你在设置页自查 |
 | 崩溃日志 | 仅设备本地文件 | 不自动上报；只有你主动复制发送才会离开设备 |
 | 语音（离线模型） | 仅设备处理 | 音频不离开设备 |
+| 密码库（可选功能） | 仅设备本地加密文件 | 主密码派生密钥（PBKDF2-600k）+ AES-256-GCM 加密；指纹解锁经系统硬件密钥（Android Keystore），密码明文不出设备、不参与任何联想/学习/统计；「提交时询问保存」默认关闭，开启后也仅在你确认时落库 |
 
 ### 哪些功能会联网（均为可选，且可一键关闭）
 
@@ -77,6 +78,7 @@ BangInput is an **offline-first** input method. Every character you type is proc
 | Input statistics (aggregate numbers) | Local storage only | Contains no text; visible only to you in Settings |
 | Crash logs | Local file only | Never auto-reported; leaves the device only if you manually share it |
 | Voice (offline models) | On-device only | Audio never leaves the device |
+| Password vault (optional) | Encrypted local file only | Keys derived from your master password (PBKDF2-600k) + AES-256-GCM; biometric unlock uses hardware-backed Android Keystore; plaintext passwords never leave the device and never enter prediction/learning/statistics; the "ask to save on submit" feature is off by default and saves only on your confirmation |
 
 ### Network Features (all optional, all disableable)
 
