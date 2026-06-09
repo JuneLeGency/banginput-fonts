@@ -65,11 +65,11 @@
  {
   "id": "poem",
   "name": "诗词",
-  "desc": "13600+ 诗词名句词汇",
+  "desc": "13700+ 诗词名句（多音字全读音，朝辞/zhao 也可）",
   "file": "poem.bin",
-  "sha256": "3683cf3e65ce7efb7ad68af912bf9b6aca47e7c0c60d0d3477b3fc85abeaffd0",
-  "sizeKb": 683,
-  "version": 1
+  "sha256": "1d5990ea690b5502a43770f159d42b9e105771a5c0f3c6eaa710adfd77706a87",
+  "sizeKb": 2620,
+  "version": 2
  },
  {
   "id": "netnew",
